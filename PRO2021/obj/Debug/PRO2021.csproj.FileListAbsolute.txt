@@ -1,0 +1,10 @@
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\bin\Debug\PRO2021.exe.config
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\bin\Debug\PRO2021.exe
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\bin\Debug\PRO2021.pdb
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.Form1.resources
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.exe
+C:\Users\Microsoft\source\repos\PRO2021\PRO2021\obj\Debug\PRO2021.pdb
